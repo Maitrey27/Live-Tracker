@@ -1,6 +1,6 @@
-# RealTrack
+# Live Tracker 
 
-RealTrack is a real-time Android application developed using Flutter and Flask API for live location tracking. This project implements dynamic path tracing with second-by-second updates of latitude and longitude, utilizing the Folium library to create interactive maps for precise location marking.
+Live Tracker is a real-time Android application developed using Flutter and Flask API for live location tracking. This project implements dynamic path tracing with second-by-second updates of latitude and longitude, utilizing the Folium library to create interactive maps for precise location marking.
 
 ## Features
 
@@ -20,7 +20,7 @@ RealTrack is a real-time Android application developed using Flutter and Flask A
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/Maitrey27/RealTrack.git
+    git clone https://github.com/Maitrey27/Live-Tracker.git
     cd RealTrack
     ```
 
@@ -79,4 +79,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Project Link: [https://github.com/Maitrey27/RealTrack](https://github.com/Maitrey27/RealTrack)
+Project Link: [https://github.com/Maitrey27/Live-Tracker](https://github.com/Maitrey27/Live-Tracker)
